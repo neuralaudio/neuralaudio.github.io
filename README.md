@@ -6,6 +6,7 @@ In this paper, we propose SoundStream++, a high-rate extension of the SoundStrea
 Experimental results show the superiority of our proposed model over conventional approaches.
 
 ## Audio Samples
+Note: Encodec does not provide options for 9 kbps and 16 kbps.
 
 ### Bit-rate: 9 kbps
 <div class="row">
