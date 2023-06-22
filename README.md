@@ -36,9 +36,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/9kbps/sample1.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
@@ -61,9 +58,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/9kbps/sample2.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
@@ -86,9 +80,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/9kbps/sample3.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
@@ -224,9 +215,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/16kbps/sample1.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
@@ -249,9 +237,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/16kbps/sample2.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
@@ -274,9 +259,6 @@ Experimental results show the superiority of our proposed model over conventiona
                 </audio>
               </td>
               <td style="width: 20%">
-                <audio id="player" controls style="width: 100%;">
-                    <source src="Encodec/16kbps/sample3.wav" type="audio/wav" />
-                </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
