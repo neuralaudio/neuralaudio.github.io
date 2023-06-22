@@ -22,22 +22,22 @@ Experimental results show the superiority of our proposed model over conventiona
           
           <tbody>
             <tr>
-              <td style="width: 25%"><p>Opus</p>
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="Opus/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%"><p>EVS</p>
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="EVS/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%"><p>Encodec</p>
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="Encodec/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%"><p>SoundStream++</p>
+              <td style="width: 25%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="SoundStream++/sample1.wav" type="audio/wav" />
                 </audio>
