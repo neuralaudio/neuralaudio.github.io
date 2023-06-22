@@ -28,7 +28,7 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/9kbps/file1-opus9.wav" type="audio/wav" />
+                    <source src="opus/9kbps/file1-opus9.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -50,12 +50,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/9kbps/file2-opus9.wav" type="audio/wav" />
+                    <source src="opus/9kbps/file2-opus9.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/9kbps/file2-evs-9-6.wav" type="audio/wav" />
+                    <source src="EVS/9kbps/file2-evs9-6.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -72,7 +72,7 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/9kbps/file3-opus9.wav" type="audio/wav" />
+                    <source src="opus/9kbps/file3-opus9.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -94,7 +94,7 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/9kbps/file4-opus9.wav" type="audio/wav" />
+                    <source src="opus/9kbps/file4-opus9.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -135,12 +135,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/12kbps/file1-opus12.wav" type="audio/wav" />
+                    <source src="opus/12kbps/file1-opus12.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/12kbps/file1-evs-13-2.wav" type="audio/wav" />
+                    <source src="EVS/12kbps/file1-evs13-2.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -160,12 +160,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/12kbps/file2-opus12.wav" type="audio/wav" />
+                    <source src="opus/12kbps/file2-opus12.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/12kbps/file2-evs-13-2.wav" type="audio/wav" />
+                    <source src="EVS/12kbps/file2-evs13-2.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -185,12 +185,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/12kbps/file3-opus12.wav" type="audio/wav" />
+                    <source src="opus/12kbps/file3-opus12.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/12kbps/file3-evs-13-2.wav" type="audio/wav" />
+                    <source src="EVS/12kbps/file3-evs13-2.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -210,12 +210,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/12kbps/file4-opus12.wav" type="audio/wav" />
+                    <source src="opus/12kbps/file4-opus12.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/12kbps/file4-evs-13-2.wav" type="audio/wav" />
+                    <source src="EVS/12kbps/file4-evs13-2.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -255,12 +255,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/16kbps/file1-opus16.wav" type="audio/wav" />
+                    <source src="opus/16kbps/file1-opus16.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/16kbps/file1-evs-16-4.wav" type="audio/wav" />
+                    <source src="EVS/16kbps/file1-evs16-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -277,12 +277,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/16kbps/file2-opus16.wav" type="audio/wav" />
+                    <source src="opus/16kbps/file2-opus16.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/16kbps/file2-evs-16-4.wav" type="audio/wav" />
+                    <source src="EVS/16kbps/file2-evs16-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -299,12 +299,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/16kbps/file3-opus16.wav" type="audio/wav" />
+                    <source src="opus/16kbps/file3-opus16.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/16kbps/file3-evs-16-4.wav" type="audio/wav" />
+                    <source src="EVS/16kbps/file3-evs16-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -321,12 +321,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/16kbps/file4-opus16.wav" type="audio/wav" />
+                    <source src="opus/16kbps/file4-opus16.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/16kbps/file4-evs-16-4.wav" type="audio/wav" />
+                    <source src="EVS/16kbps/file4-evs16-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -363,12 +363,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/24kbps/file1-opus24.wav" type="audio/wav" />
+                    <source src="opus/24kbps/file1-opus24.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/24kbps/file1-evs-24-4.wav" type="audio/wav" />
+                    <source src="EVS/24kbps/file1-evs24-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -388,12 +388,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/24kbps/file2-opus24.wav" type="audio/wav" />
+                    <source src="opus/24kbps/file2-opus24.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/24kbps/file2-evs-24-4.wav" type="audio/wav" />
+                    <source src="EVS/24kbps/file2-evs24-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -413,12 +413,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/24kbps/file3-opus24.wav" type="audio/wav" />
+                    <source src="opus/24kbps/file3-opus24.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/24kbps/file3-evs-24-4.wav" type="audio/wav" />
+                    <source src="EVS/24kbps/file3-evs24-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
@@ -438,12 +438,12 @@ Note: Encodec does not provide options for 9 kbps and 16 kbps.
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="Opus/24kbps/file4-opus24.wav" type="audio/wav" />
+                    <source src="opus/24kbps/file4-opus24.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
-                    <source src="EVS/24kbps/file4-evs-24-4.wav" type="audio/wav" />
+                    <source src="EVS/24kbps/file4-evs24-4.wav" type="audio/wav" />
                 </audio>
               </td>
               <td style="width: 20%">
