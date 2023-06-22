@@ -13,31 +13,34 @@ Experimental results show the superiority of our proposed model over conventiona
         <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">
           <thead>
             <tr>
-              <th style="width: 25%">Opus</th>
-              <th style="width: 25%">EVS</th>
-              <th style="width: 25%">Encodec</th>
-              <th style="width: 25%">SoundStream++</th>
+              <th style="width: 20%"></th>
+              <th style="width: 20%">Opus</th>
+              <th style="width: 20%">EVS</th>
+              <th style="width: 20%">Encodec</th>
+              <th style="width: 20%">SoundStream++</th>
             </tr>
           </thead>
           
           <tbody>
             <tr>
-              <td style="width: 25%">
+              <td style="width: 20%"><p>Sample 1</p>
+              </td>
+              <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="Opus/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%">
+              <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="EVS/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%">
+              <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="Encodec/sample1.wav" type="audio/wav" />
                 </audio>
               </td>
-              <td style="width: 25%">
+              <td style="width: 20%">
                 <audio id="player" controls style="width: 100%;">
                     <source src="SoundStream++/sample1.wav" type="audio/wav" />
                 </audio>
