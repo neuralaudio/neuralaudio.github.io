@@ -194,3 +194,191 @@ Experimental results show the superiority of our proposed model over conventiona
         </table>
     </div>
 </div>
+
+### Bit-rate: 16 kbps
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">
+          <thead>
+            <tr>
+              <th style="width: 20%"></th>
+              <th style="width: 20%">Opus</th>
+              <th style="width: 20%">EVS</th>
+              <th style="width: 20%">Encodec</th>
+              <th style="width: 20%">SoundStream++</th>
+            </tr>
+          </thead>
+          
+          <tbody>
+            <tr>
+              <td style="width: 20%"><p>Sample 1</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/16kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/16kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/16kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/16kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="width: 20%"><p>Sample 2</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/16kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/16kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/16kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/16kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="width: 20%"><p>Sample 3</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/16kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/16kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/16kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/16kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
+
+### Bit-rate: 24 kbps
+<div class="row">
+    <div class="col-12 ml-auto">
+        <table class="table table-responsive align-content-left" style="background-color: whitesmoke; display: table;">
+          <thead>
+            <tr>
+              <th style="width: 20%"></th>
+              <th style="width: 20%">Opus</th>
+              <th style="width: 20%">EVS</th>
+              <th style="width: 20%">Encodec</th>
+              <th style="width: 20%">SoundStream++</th>
+            </tr>
+          </thead>
+          
+          <tbody>
+            <tr>
+              <td style="width: 20%"><p>Sample 1</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/24kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/24kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/24kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/24kbps/sample1.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="width: 20%"><p>Sample 2</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/24kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/24kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/24kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/24kbps/sample2.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="width: 20%"><p>Sample 3</p>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Opus/24kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="EVS/24kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="Encodec/24kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+              <td style="width: 20%">
+                <audio id="player" controls style="width: 100%;">
+                    <source src="SoundStream++/24kbps/sample3.wav" type="audio/wav" />
+                </audio>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
